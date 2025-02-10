@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.10"
 pandas = "^2.2.3"
 ipykernel = "^6.29.5"
+seaborn = "^0.13.2"
+matplotlib = "^3.10.0"
 
 
 [build-system]
